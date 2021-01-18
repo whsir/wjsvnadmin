@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.svnadmin</groupId>
 	<artifactId>svnadmin</artifactId>
-	<version>3.0.7</version>
+	<version>3.0.8</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -13,7 +13,7 @@
 		<war.archiveClasses>true</war.archiveClasses>
 
 		<svnkit.version>1.9.3</svnkit.version>
-		<spring.version>3.0.5.RELEASE</spring.version>
+		<spring.version>3.0.7.RELEASE</spring.version>
 		<junit.version>4.8.2</junit.version>
 		<commons-lang.version>2.6</commons-lang.version>
 		<commons-dbcp.version>1.4</commons-dbcp.version>
